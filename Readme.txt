@@ -1,3 +1,5 @@
+https://john-edge-tellezx.github.io/Portfolio/
+
 # Este é um portifolio pessoal com os meus trabalhos.
 
 Ele é baseado no template:
